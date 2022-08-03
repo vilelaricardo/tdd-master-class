@@ -1,0 +1,23 @@
+{
+  "name": "tdd-master-class",
+  "version": "1.0.0",
+  "description": "",
+  "main": "expense.test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.3.6",
+    "chai-files": "^1.4.0",
+    "mocha": "^10.0.0"
+  },
+  "dependencies": {
+    "card-validator": "^8.1.1",
+    "currency": "^4.1.0",
+    "currency-codes": "^2.1.0",
+    "iso-3166-1": "^2.1.1"
+  }
+}
